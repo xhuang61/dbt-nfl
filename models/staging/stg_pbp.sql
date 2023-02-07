@@ -1,7 +1,3 @@
-{{config(
-   materialized = "table" 
-)}}
-
 select
     PBP_ID
     , PLAY_ID

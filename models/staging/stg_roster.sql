@@ -1,7 +1,3 @@
-{{config(
-   materialized = "table" 
-)}}
-
 SELECT
     GSIS_ID
     , FULL_NAME
